@@ -1,6 +1,10 @@
 {
     "url": "https://hwhwq.middleware.io/",
     "emailid": "kinjal@qable.io",
-    "password": "Test@12345"
-    
+    "password": "Test@12345",
+    "baseurl": "https://restful-booker.herokuapp.com",
+    "LoginURL": "https://stageaem-cloud.hillsvet.ca/en-ca", 
+    "emilidamol": "bp_amol_waganna@colpal.com", 
+    "Invalidemail": "bp_amol_waganna123@colpal.com",
+    "Pwamol": "Test@123"
 }

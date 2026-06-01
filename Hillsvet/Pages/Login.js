@@ -1,6 +1,6 @@
 // Pages/Login.js
 import { expect } from '@playwright/test';
-import testData from '../data/test-data.json';
+import testData from '../../data/test-data.json';
 
 export class LoginPage {
   constructor(page) {
